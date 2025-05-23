@@ -1,0 +1,3 @@
+username,fullname,password,groups
+jlopez,Juan López,Pa$$w0rd,sudo,developers
+mgarcia,Marta García,Dev12345,developers
